@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeagueStatsApp</string>
+    <string name="title_activity_champion_view">ChampionView</string>
+    <string name="title_activity_champion_stats">ChampionStats</string>
+</resources>
